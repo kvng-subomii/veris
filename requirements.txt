@@ -1,0 +1,7 @@
+flask
+flask-cors
+flask-limiter
+groq
+python-dotenv
+requests
+ddgs
