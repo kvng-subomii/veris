@@ -31,7 +31,7 @@ app.config['MAX_CONTENT_LENGTH'] = 5 * 1024 * 1024  # 5MB max upload
 
 # ── CORS ───────────────────────────────────────────────
 allowed_origins = [
-    "https://veris.onrender.com",
+    "https://veris-08jl.onrender.com",
     "http://localhost:5002",
     "http://127.0.0.1:5002",
 ]
